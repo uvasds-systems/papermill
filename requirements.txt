@@ -1,0 +1,7 @@
+papermill
+numpy
+matplotlib
+boto3
+seaborn
+pandas
+ipykernel
